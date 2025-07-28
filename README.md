@@ -55,17 +55,4 @@
 
 ---
 
-## 📂 Files Included
 
-| File Name                     | Description                            |
-|------------------------------|----------------------------------------|
-| `SET_1 (1).csv`              | Input dataset                          |
-| `SET_1_code.ipynb`           | Notebook for SET 1                     |
-| `SET_2_code.ipynb`           | Notebook for SET 2                     |
-| `above_average_news_sales.csv` | Output of SET 2 – Task 5             |
-| `README.md`                  | This documentation file                |
-
----
-
-### 📌 Author: *[Your Name]*  
-*Submitted as part of the AI/ML course project.*
